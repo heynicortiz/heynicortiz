@@ -1,12 +1,10 @@
 # Nic Ortiz - Software Developer/Engineer
 
 ### 📫 Reach Out...
-📧 [nic@nicortiz.com](mailto:nic@nicortiz.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20with%20Me%20On%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicortiz/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicortiz/)
-
-### Languages and Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### 🛠️ Languages and Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java-8+&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,15 +23,24 @@ As I graduated from high school, I saw two main paths ahead of me:
 * Stay in my hometown of Milwaukee and pursue Computer Engineering
 * Move to sunny Miami and study International Business
 
-At the time, I chose to move out and go on an entirely new adventure. I thoroughly enjoyed my education, including a study abroad experience in China, and the decade of experience in public sector parks and recreation management that followed.
+At the time, I chose to move out and go on an entirely new adventure. I thoroughly enjoyed my education, including a study abroad experience in China and a follow-up MBA, as well as the decade of experience in public sector parks and recreation management that followed.
 
-In late 2021, however, I decided to change gears. I began a computer science degree (completed in late 2022) and sought out further opportunities to supplement that formal education with more hands-on work. I completed CodePath's Android Development and Software Engineering courses which solidified the idea in my mind that I was making the right move to transition careers to software engineering.
+In 2021, however, I decided to change gears. I began a computer science degree (completed in late 2022) and sought out further opportunities to supplement that formal education with more hands-on work. I completed CodePath's Android Development and Software Engineering courses which solidified the idea in my mind that I was making the right move to transition careers to software engineering.
 
 Now, I am working on The Odin Project, FreeCodeCamp, and other resources to get more project based experience with JavaScript and fullstack development to prepare myself to take on a "real" project.
 
 I am looking forward to what the future brings and am excited for the opportunities out there.
 
-### 🛠️ Projects
+### 💻️ Projects
 
 #### [👨‍🌾 Finding Fresh](https://github.com/CodePath-AND102-Group-12/FindingFresh)
-One of my favorite projects that I've worked on so far was during my CodePath Android Development course. Finding Fresh is a native Android application written in Kotlin and developed with a small group. This project was my first time working in a team for software development and we were selected as part of a small group to present at CodePath's National Demo Day for Fall 2022.
+- One of my favorite projects so far, Finding Fresh was a created as part of a small group and selected to present at CodePath's National Demo Day for Fall 2022.
+- Planned and developed a native Android application in Kotlin connected to Firebase for user authentication and storage using a combination of Firestore and Realtime Database. 
+- Implemented multi-fragment design including multiple recycler views, Google Maps API integration, and CRUD operations.
+
+#### 📆 Schedule and Client Manager
+
+- Planned and developed application in Java with a GUI powered by JavaFX to manage and schedule clients. 
+- Connected to a persistent MySQL server database, for data storage/manipulation and user authentication.
+- Detected user locales and provided localized translations for two primary regions, with means for expansion.
+- Implemented various form validation methods including time overlap, required fields, and appropriate regex.
